@@ -1,8 +1,8 @@
 # Reflow-Controll
 Arduino Uno Programm für RocketScream Reflow Controll Shield
-# Compatible with Arduino Uno and Duemilanove
-# Immersion gold finish allows easier soldering
- #8x2 LCD white character with blue back light
+Compatible with Arduino Uno and Duemilanove
+Immersion gold finish allows easier soldering
+8x2 LCD white character with blue back light
 2 push button (breakout pins available for panel mount) connected to a single analog pin
 1 red LED (breakout pins available for panel mount)
 1 terminal block for thermocouple type K
